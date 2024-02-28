@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="log4j-api-2.22.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/apache-activemq-6.0.1/lib/optional/log4j-api-2.22.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/apache-activemq-6.0.1/lib/optional/log4j-core-2.22.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/apache-activemq-6.0.1/lib/optional/log4j-slf4j2-impl-2.22.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
